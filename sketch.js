@@ -1,7 +1,7 @@
 function setup() {
   createCanvas(600, 600);
   colorMode(HSB, 100);
-  frameRate(6);
+  frameRate(5);
   noStroke();
 
 
